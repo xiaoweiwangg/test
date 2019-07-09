@@ -8,3 +8,4 @@ console.log(d);
 (e) => {
   console.log("hello world!!!");
 }
+console.log("i love the girl !")
