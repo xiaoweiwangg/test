@@ -3,3 +3,5 @@ var a=999;
 var b=1;
 c=a+b;
 console.log(c);
+d=c++;
+console.log(d)
