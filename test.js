@@ -4,4 +4,7 @@ var b=1;
 c=a+b;
 console.log(c);
 d=c++;
-console.log(d)
+console.log(d);
+(e) => {
+  console.log("hello world!!!");
+}
